@@ -7,6 +7,7 @@ This Can Bypass Anti Viruses (For Education Only)
 - `Generate Discord Rat` 🟡
 - `Generate Costum Malware`🟡
 - `Scan Your Malware In Multiple Anti Viurses (VirusTotal)` 🟢
+
 🟢= Work  / 🟡 = Soon
 
 **Read ReadMeFirst.txt**
