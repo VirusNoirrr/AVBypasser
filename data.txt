@@ -15,13 +15,13 @@ StringFileInfo(
   [
   StringTable(
     u'040904B0',
-    [StringStruct(u'CompanyName', u'Microsoft Inc'),
-    StringStruct(u'FileDescription', u'Microsoft Inc'),
+    [StringStruct(u'CompanyName', u'VirusNoir AVBypasser github.com/VirusNoirrr'),
+    StringStruct(u'FileDescription', u'VirusNoir AVBypasser github.com/VirusNoirrr'),
     StringStruct(u'FileVersion', u'5.1.6'),
     StringStruct(u'InternalName', u'.'),
-    StringStruct(u'LegalCopyright', u'Copyright (c) Microsoft Inc'),
-    StringStruct(u'OriginalFilename', u'Program.exe'),
-    StringStruct(u'ProductName', u'Simple Microsoft Program.'),
+    StringStruct(u'LegalCopyright', u'VirusNoir AVBypasser github.com/VirusNoirrr'),
+    StringStruct(u'OriginalFilename', u'virusnoir.exe'),
+    StringStruct(u'ProductName', u'This program might be a malware, it bypass the anti virus. Check github.com/VirusNoirrr'),
     StringStruct(u'ProductVersion', u'1.0.0 (r1800392)')])
   ]), 
 VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
