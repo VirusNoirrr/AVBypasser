@@ -1,13 +1,4 @@
 # AVBypasser
-This Can Bypass Anti Viruses (For Education Only)
 
-
-- `Generate Reverse Shell Malware`🟢
-- `Generate ChromeGrabber Malware`🟡
-- `Generate Discord Rat` 🟡
-- `Generate Costum Malware`🟡
-- `Scan Your Malware In Multiple Anti Viurses (VirusTotal)` 🟢
-
-🟢= Work  / 🟡 = Soon
-
-**Read ReadMeFirst.txt**
+nigga dont use this to harm people. This is halal script 100%, i got the idea while sleeping ok ? thx bye.
+join discord.gg/procap to be pro like ProCap.
